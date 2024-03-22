@@ -1,0 +1,248 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    border: solid;
+    background-color: rgb(123, 123, 202);
+}
+#container{
+    background-color:rgb(60, 170, 170);
+    color: white;
+    border-radius: 2%;
+    
+}
+.button{
+    border: solid;
+    background-color: blue;
+    color: white;
+}
+.sign1{
+    border: solid;
+    background-color: blue;
+    color: white;
+    width: 100px;
+}
+.log{
+    border: solid;
+    color: white;
+    width: 100px;
+}
+.body{
+    display: flex;
+    justify-content: space-around;
+}
+.phone{
+    background-image: url("image/smrt\ phones.png");
+    background-repeat: no-repeat; 
+
+}
+.people{
+    row-gap: 30px;
+}
+  .expert{
+    display: flex;
+    gap: 300px;
+  }
+  .get{
+    border:solid ;
+    background-color: blue;
+    color: white;
+    width: 100px;
+  }
+  .blog{
+    color: black;
+    background-color: yellow;
+    width: 200px;
+    padding-left: 90px;
+  }  
+  .lap{
+    background-color: rgb(131, 131, 173);
+    padding-left: 700px;
+  }
+  .image{
+    display: flex;
+    justify-content: space-around;
+  }
+  .blue button{
+    background-color: rgb(45, 45, 170);
+    color: white;
+    height: 50px;
+  }
+  .sign{
+    border: solid;
+    color: blue;
+    width: 50px;
+  }
+.pics{
+    display: flex;
+    justify-content: space-around;
+}
+.photo{
+    gap: 10px;
+    border: solid 1px black;
+display: flex;
+background-color: blue;
+padding-left: 300px;
+
+}
+.email{
+    border: solid 1px white;
+}
+.footer{
+    display: flex;
+    gap: 50px;
+    background-color: rgb(44, 121, 146);
+    padding-left: 200px;
+    justify-content: space-around;
+}
+.sumsung{
+    display: flex;
+    justify-content: space-around;
+}
+.power{
+    color: darkgoldenrod;
+}
+.subheading{
+color:darkgoldenrod ;
+}
+.analytic{
+    color: darkgoldenrod;
+}
+.intergrat{
+    color: rgb(228, 165, 8);
+}
+.heading{
+    color: rgb(231, 170, 15);
+}
+.general{
+    color: darkgoldenrod;
+}
+
+@media only screen and (min-width: 600px) {
+    navbar{
+        display: flex;
+        justify-content: space-around;
+        border: solid;
+        background-color: rgb(123, 123, 202);
+    }
+    #container{
+        background-color:rgb(60, 170, 170);
+        color: white;
+        border-radius: 2%;
+        
+    }
+    .button{
+        border: solid;
+        background-color: blue;
+        color: white;
+    }
+    .sign1{
+        border: solid;
+        background-color: blue;
+        color: white;
+        width: 100px;
+    }
+    .log{
+        border: solid;
+        color: white;
+        width: 100px;
+    }
+    .body{
+        display: flex;
+        justify-content: space-around;
+    }
+    .phone{
+        background-image: url("image/smrt\ phones.png");
+        background-repeat: no-repeat; 
+    
+    }
+    .people{
+        row-gap: 30px;
+    }
+      .expert{
+        display: flex;
+        gap: 300px;
+      }
+      .get{
+        border:solid ;
+        background-color: blue;
+        color: white;
+        width: 100px;
+      }
+      .blog{
+        color: black;
+        background-color: yellow;
+        width: 200px;
+        padding-left: 90px;
+      }  
+      .lap{
+        background-color: rgb(131, 131, 173);
+        padding-left: 700px;
+      }
+      .image{
+        display: flex;
+        justify-content: space-around;
+      }
+      .blue button{
+        background-color: rgb(45, 45, 170);
+        color: white;
+        height: 50px;
+      }
+      .sign{
+        border: solid;
+        color: blue;
+        width: 50px;
+      }
+    .pics{
+        display: flex;
+        justify-content: space-around;
+    }
+    .photo{
+        gap: 10px;
+        border: solid 1px black;
+    display: flex;
+    background-color: blue;
+    padding-left: 300px;
+    
+    }
+    .email{
+        border: solid 1px white;
+    }
+    .footer{
+        display: flex;
+        gap: 50px;
+        background-color: rgb(44, 121, 146);
+        padding-left: 200px;
+        justify-content: space-around;
+    }
+    .sumsung{
+        display: flex;
+        justify-content: space-around;
+    }
+    .power{
+        color: darkgoldenrod;
+    }
+    .subheading{
+    color:darkgoldenrod ;
+    }
+    .analytic{
+        color: darkgoldenrod;
+    }
+    .intergrat{
+        color: rgb(228, 165, 8);
+    }
+    .heading{
+        color: rgb(231, 170, 15);
+    }
+    .general{
+        color: darkgoldenrod;
+    }
+    
+
+    
+
+    
+        
+    
+}
+
+    
